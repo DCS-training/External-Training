@@ -1,6 +1,6 @@
 # External-Training
 
-In this document you can find all the training material provided to us from exteranal providers 
+In this document you can find all the training material that was prepared for CDCS by exteranal providers 
 
 ## Library tools
 - [Visual AI and The Humanities An Introduction](https://tinyurl.com/EdinburghVAI)
