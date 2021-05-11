@@ -10,3 +10,9 @@ Dr. Giles Bergel is a digital humanist based in the Visual Geometry Group in the
 - [All things IIIF at the University of Edinburgh (debut: Deep Dive)](https://uoe-iiif.github.io/iiif/workshop)
 The International Image Interoperability Framework (IIIF) is a community-led approach to standardised image delivery. Its aims are to produce uniform, rich access to media wherever it is hosted; to produce APIs that support interoperability, and to produce tools that improve the user experience around viewing, comparing, manipulating, and annotating images. 
 The Library and University Collections department at the University of Edinburgh have embraced IIIF, and are heavily invested in its use, as consortium members. In this workshop, Scott Renton and Mike Bennett will give an overview of the IIIF concepts, and Edinburgh's deployment and progress in the field, from simple image manipulation and deep zoom to search and annotation. There will be opportunities to get hands-on with the technology and to try things out for yourself.  
+
+
+## Data Visualisation
+
+## Databases
+
