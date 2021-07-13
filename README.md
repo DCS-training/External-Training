@@ -25,7 +25,7 @@ The instructor of this workshop was Andres Karjus
    - Choosing the right method for the story you want to tell 
    - Examples of different technical approaches, Excel, Google Charts, and Python 
    
-The tutorial was created by David Elsmore from [Edina](https://edina.ac.uk/)
+ The tutorial was created by David Elsmore from [Edina](https://edina.ac.uk/)
 
  
 
