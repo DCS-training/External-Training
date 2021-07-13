@@ -18,6 +18,15 @@ The Library and University Collections department at the University of Edinburgh
 This practical workshop served as an introduction to programmatic data visualization. Access to quality data has considerably improved in the humanities and social sciences, along with computational tools and resources to deal with big datasets. However, along with big data comes the question of how to make the information accessible – to the researcher looking at the data, to the reader of an academic paper that has made use of the data, but also to the media or the interested lay person browsing the website of a project.
 This workshop teached participants the basics of R, an immensely powerful and flexible language for data analytics and visualization. We will quickly go through just enough of the programming and explorative data analysis basics before diving into a variety of graphs - for numeric, categorical, textual, and network data, starting with simple static plots and moving on to creating interactive, animatable, multifunctional figures. 
 The instructor of this workshop was Andres Karjus
+
+- [Effective Data Visualisation](https://digital-exploits.edina.ac.uk/visualize/) The availability of digitized data has been growing at an exponential rate and the utilization of this data can lead to a more complex understanding of various research areas. In order to communicate this knowledge effectively, it is often essential to use visualizations to provide a clear picture of your key arguments. This workshop covers: 
+   - What makes a good visualisation? 
+   - Bar charts, Line graphs, Maps, and Scatter Plots 
+   - Choosing the right method for the story you want to tell 
+   - Examples of different technical approaches, Excel, Google Charts, and Python 
+   
+The tutorial was created by David Elsmore from [Edina](https://edina.ac.uk/)
+
  
 
 ## Text Analysis
